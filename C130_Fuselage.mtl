@@ -1,0 +1,10 @@
+# C:\Users\mburl\Dropbox\XPlane11\Firebar\C-130\C130_Fuselage.mtl created by ModelConverterX on 04/02/2017 16:00:59
+#
+#
+newmtl mat000
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ke 0.000 0.000 0.000
+map_Kd c130_fuselage.png
+map_bump c130_fuselage_nml.png
